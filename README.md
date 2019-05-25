@@ -1,4 +1,12 @@
-# AppointmentFrontend
+# Appointment Frontend Alerts System
+<strong>Author:</strong> Daniel Heredia Morán 
+<strong>Date:</strong> 25/05/2019 
+<strong>Version:</strong> 1.0 
+<strong>Website:</strong> https://daniheredia.com 
+<strong>LinkedIn:</strong> https://www.linkedin.com/in/daniel-heredia/ 
+<strong>Medium:</strong> https://medium.com/@here7
+
+[Backend system repository](https://github.com/here7/appointment-backend).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
